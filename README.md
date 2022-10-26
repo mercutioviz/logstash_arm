@@ -1,4 +1,4 @@
-# Barracuda WAF As A Service Integration with Azure Log Analaytics / Microsoft Sentinel
+# Barracuda WAF As A Service Integration with Azure Log Analytics / Microsoft Sentinel
 
 ## Table of contents
 1. [Introduction](#introduction)
